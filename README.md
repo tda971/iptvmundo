@@ -180,4 +180,4 @@ http://181.78.27.128:8000/play/a03m/index.m3u8
 #EXTINF:-1,Zona Latina
 http://181.78.27.128:8000/play/a01m/index.m3u8
 #EXTINF:-1, Tele Posadas HD 
-https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
