@@ -181,3 +181,6 @@ http://181.78.27.128:8000/play/a03m/index.m3u8
 http://181.78.27.128:8000/play/a01m/index.m3u8
 #EXTINF:-1, Tele Posadas HD 
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+#EXTINF:-1, Fox Sports Argentina 
+https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8
+
