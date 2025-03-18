@@ -41,3 +41,5 @@ https://directv.bz/uuid/34cxozjg/key/317dfcfd7dfd40a8700700dba79ff2ad
 http://181.78.27.128:8000/play/a03g/index.m3u8
 #EXTINF:-1, Monumental TV 1080 Am 
 https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_baja/chunklist_w1878138060.m3u8?k=b219ba76f07c6c83b46f8aa2377b88ecc4a3e975dcdec84aa7136fa49b2d4180&exp=1742253608
+#EXTINF:-1, RQP TV 
+http://177.11.254.2:8899/play/a1a7
