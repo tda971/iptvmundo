@@ -30,16 +30,18 @@ http://177.11.254.2:8899/play/a0sy
 #EXTINF:-1,Paraguay Tv
 http://181.78.27.128:8000/play/a039/index.m3u8
 #EXTINF:-1,Paravision
-https://directv.bz/uuid/346qwyy6/key/317dfcfd7dfd40a8700700dba79ff2ad
+https://directv.bz/uuid/36dlxhdx/key/22d7c1dcb27ccf56c3a488d5416203cb
 #EXTINF:-1,SNT PY 
-https://directv.bz/uuid/34czfvm4/key/317dfcfd7dfd40a8700700dba79ff2ad
+https://directv.bz/uuid/469pbt4o/key/22d7c1dcb27ccf56c3a488d5416203cb
 #EXTINF:-1,Telefuturo
-https://directv.bz/uuid/342ly75s/key/317dfcfd7dfd40a8700700dba79ff2ad
+http://138.121.114.50:8000/play/a09n/index.m3u8
 #EXTINF:-1,Unicanal
 https://directv.bz/uuid/34cxozjg/key/317dfcfd7dfd40a8700700dba79ff2ad
 #EXTINF:-1, SUR TV 
 http://181.78.27.128:8000/play/a03g/index.m3u8
 #EXTINF:-1, Monumental TV 1080 Am 
-https://rds3tf.desdeparaguay.net/monumentaltv/monumentaltv_baja/chunklist_w1878138060.m3u8?k=b219ba76f07c6c83b46f8aa2377b88ecc4a3e975dcdec84aa7136fa49b2d4180&exp=1742253608
+https://directv.bz/uuid/34f3pvtw/key/22d7c1dcb27ccf56c3a488d5416203cb
 #EXTINF:-1, RQP TV 
 http://177.11.254.2:8899/play/a1a7
+#EXTINF:-1, PALMA 106.5 FM 
+https://directv.bz/uuid/341mw7zc/key/22d7c1dcb27ccf56c3a488d5416203cb
