@@ -45,3 +45,5 @@ https://directv.bz/uuid/34f3pvtw/key/22d7c1dcb27ccf56c3a488d5416203cb
 http://177.11.254.2:8899/play/a1a7
 #EXTINF:-1, PALMA 106.5 FM 
 https://directv.bz/uuid/341mw7zc/key/22d7c1dcb27ccf56c3a488d5416203cb
+#EXTINF:-1, Directv Sports + 
+http://200.106.63.76:8000/play/a12l/index.m3u8
