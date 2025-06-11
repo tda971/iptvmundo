@@ -2,7 +2,7 @@
 #EXTINF:-1, Tele Posadas HD 
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1, Tele Posadas Plus HD 
-https://cdn-cirion01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
 #EXTINF:-1,C9n 
 http://181.78.27.128:8000/play/a05s/index.m3u8
 #EXTINF:-1,CANAL E
