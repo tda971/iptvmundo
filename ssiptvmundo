@@ -3,6 +3,8 @@
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1, Tele Posadas Plus HD 
 https://live-stream.iblups.com/video/8520cff71cce34f385ea8fff46c5dc4f2b3af97f.m3u8
+#EXTINF:-1, Mundial del Clubes En vivo 
+http://200.106.124.196:1983/play/a1if/index.m3u8
 #EXTINF:-1,C9n 
 http://181.78.27.128:8000/play/a05s/index.m3u8
 #EXTINF:-1,CANAL E
