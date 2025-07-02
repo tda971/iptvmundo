@@ -3,6 +3,8 @@
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1, Tele Posadas Plus HD 
 https://live-stream.iblups.com/video/8520cff71cce34f385ea8fff46c5dc4f2b3af97f.m3u8
+#EXTINF:-1, Zeus TV Canal 2 
+https://live20.bozztv.com/akamaissh101/ssh101/canal2regionales/playlist.m3u8
 #EXTINF:-1, Tele Deporte 
 http://176.65.146.189:8401/play/a096
 #EXTINF:-1, Mundial del Clubes En vivo 
